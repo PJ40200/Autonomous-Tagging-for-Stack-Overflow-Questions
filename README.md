@@ -1,7 +1,5 @@
 # Autonomous-Tagging-for-Stack-Overflow-Questions
 
-# Autonomous Tagging for Stack Overflow Questions
-
 ## Overview
 This project focuses on building an automated tagging system for Stack Overflow questions using Machine Learning techniques. The system predicts relevant tags for a question based on its title and body text.
 
